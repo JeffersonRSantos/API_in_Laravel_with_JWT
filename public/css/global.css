@@ -1,0 +1,12 @@
+.navbar{
+    margin-bottom: 30px;
+}
+.obs-small{
+    color:red;
+    padding-bottom: 15px;
+    display: block;
+}
+.theme-green{
+    background: #d7f3e3;
+    border:none;
+}
